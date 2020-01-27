@@ -1,0 +1,16 @@
+Bubble Sort
+    For 10000 data points, Random = 107257.0, Descending = 61280.0 Sorted
+    random data worse than descending data, which is unusual. Generally a slow
+    algorithm, average/worst cases are O(N^2).
+
+Selection Sort
+    For 10000 data points, Random = 32990.0, Descending = 33021.0
+    Random/Descending times very similar. Sorts parially sorted data in similar
+    time to unsorted data. Generally faster than Bubble sort but still slow,
+    average/worst cases are O(N^2).
+
+Insertion Sort
+    For 10000 data points, Random = 8695.0, Descending = 15404.667 Random is
+    much faster than descending, algorithm takes advantage of partially sorted
+    data. Descending is very slow, slower than Selection and Bubble sorts. With
+    random data it is the fastest algorithm.  Average/worst cases are O(N^2).
