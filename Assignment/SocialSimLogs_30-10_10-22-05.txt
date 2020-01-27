@@ -1,0 +1,31 @@
+--------------------------------
+Interactive mode
+
+Iterating through events to find next post:
+New post by A (ID: 1, Clickbait: 1):
+Apple
+
+
+--------------------------------
+Interactive mode
+
+Iterating through events to find next post:
+New post by B (ID: 2, Clickbait: 1):
+Banana
+
+
+--------------------------------
+Timestep 1
+
+0 event(s) to get through, 2 post(s) to get through.
+
+For post ID 1 by A:
+
+Post 1 finished propagating after 12 microseconds
+For post ID 2 by B:
+
+Post seen by A
+Post liked by A
+
+Post 2 finished propagating after 4952 microseconds
+

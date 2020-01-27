@@ -1,0 +1,538 @@
+--------------------------------
+Timestep 1
+
+6 event(s) to get through, 0 post(s) to get through.
+
+
+
+Iterating through events to find next post:
+New post by Poster (ID: 1, Clickbait: 1):
+Post One
+
+
+--------------------------------
+Timestep 2
+
+5 event(s) to get through, 1 post(s) to get through.
+
+For post ID 1 by Poster:
+
+Post seen by CloseFriend1
+Post liked by CloseFriend1
+Post seen by CloseFriend2
+Post seen by CloseFriend3
+Post liked by CloseFriend3
+Post seen by CloseFriend4
+Post seen by CloseFriend5
+Post liked by CloseFriend5
+Post seen by CloseFriend6
+Post liked by CloseFriend6
+Post seen by CloseFriend7
+Post seen by CloseFriend8
+Post liked by CloseFriend8
+Post seen by CloseFriend9
+Post seen by CloseFriend10
+
+
+--------------------------------
+Timestep 3
+
+5 event(s) to get through, 1 post(s) to get through.
+
+For post ID 1 by Poster:
+
+Post seen by Friend1
+Post liked by Friend1
+Friend1 followed Poster
+Post seen by Friend3
+Post seen by Friend5
+Post liked by Friend5
+Friend5 followed Poster
+Post seen by Friend6
+Post seen by Friend8
+
+
+--------------------------------
+Timestep 4
+
+5 event(s) to get through, 1 post(s) to get through.
+
+For post ID 1 by Poster:
+
+Post seen by Acquaintance1
+Post liked by Acquaintance1
+Acquaintance1 followed Poster
+Post seen by Acquaintance5
+
+
+--------------------------------
+Timestep 5
+
+5 event(s) to get through, 1 post(s) to get through.
+
+For post ID 1 by Poster:
+
+Post seen by Stranger1
+
+Post 1 finished propagating after 18092 microseconds
+
+
+Iterating through events to find next post:
+New post by Poster (ID: 2, Clickbait: 1):
+Post Two
+
+
+--------------------------------
+Timestep 6
+
+4 event(s) to get through, 1 post(s) to get through.
+
+For post ID 2 by Poster:
+
+Post seen by CloseFriend1
+Post liked by CloseFriend1
+Post seen by CloseFriend2
+Post liked by CloseFriend2
+Post seen by CloseFriend3
+Post seen by CloseFriend4
+Post liked by CloseFriend4
+Post seen by CloseFriend5
+Post seen by CloseFriend6
+Post liked by CloseFriend6
+Post seen by CloseFriend7
+Post seen by CloseFriend8
+Post liked by CloseFriend8
+Post seen by CloseFriend9
+Post liked by CloseFriend9
+Post seen by CloseFriend10
+Post liked by CloseFriend10
+Post seen by Friend1
+Post seen by Friend5
+Post liked by Friend5
+Post seen by Acquaintance1
+Post liked by Acquaintance1
+
+
+--------------------------------
+Timestep 7
+
+4 event(s) to get through, 1 post(s) to get through.
+
+For post ID 2 by Poster:
+
+Post seen by Friend2
+Post liked by Friend2
+Friend2 followed Poster
+Post seen by Friend4
+Post liked by Friend4
+Friend4 followed Poster
+Post seen by Friend6
+Post liked by Friend6
+Friend6 followed Poster
+Post seen by Friend8
+Post liked by Friend8
+Friend8 followed Poster
+Post seen by Friend9
+Post liked by Friend9
+Friend9 followed Poster
+Post seen by Friend10
+Post seen by Acquaintance5
+Post seen by Stranger1
+
+
+--------------------------------
+Timestep 8
+
+4 event(s) to get through, 1 post(s) to get through.
+
+For post ID 2 by Poster:
+
+Post seen by Acquaintance2
+Post seen by Acquaintance4
+Post liked by Acquaintance4
+Post seen by Acquaintance6
+Post liked by Acquaintance6
+Acquaintance6 followed Poster
+Post seen by Acquaintance8
+Post seen by Acquaintance9
+
+
+--------------------------------
+Timestep 9
+
+4 event(s) to get through, 1 post(s) to get through.
+
+For post ID 2 by Poster:
+
+Post seen by Stranger4
+Post seen by Stranger6
+Post liked by Stranger6
+Stranger6 followed Poster
+
+Post 2 finished propagating after 6200 microseconds
+
+
+Iterating through events to find next post:
+New post by Poster (ID: 3, Clickbait: 1):
+Post Three
+
+
+--------------------------------
+Timestep 10
+
+3 event(s) to get through, 1 post(s) to get through.
+
+For post ID 3 by Poster:
+
+Post seen by CloseFriend1
+Post liked by CloseFriend1
+Post seen by CloseFriend2
+Post seen by CloseFriend3
+Post seen by CloseFriend4
+Post liked by CloseFriend4
+Post seen by CloseFriend5
+Post seen by CloseFriend6
+Post seen by CloseFriend7
+Post liked by CloseFriend7
+Post seen by CloseFriend8
+Post liked by CloseFriend8
+Post seen by CloseFriend9
+Post seen by CloseFriend10
+Post liked by CloseFriend10
+Post seen by Friend1
+Post liked by Friend1
+Post seen by Friend2
+Post liked by Friend2
+Post seen by Friend4
+Post liked by Friend4
+Post seen by Friend5
+Post liked by Friend5
+Post seen by Friend6
+Post seen by Friend8
+Post liked by Friend8
+Post seen by Friend9
+Post seen by Acquaintance1
+Post liked by Acquaintance1
+Post seen by Acquaintance6
+Post liked by Acquaintance6
+Post seen by Stranger6
+
+
+--------------------------------
+Timestep 11
+
+3 event(s) to get through, 1 post(s) to get through.
+
+For post ID 3 by Poster:
+
+Post seen by Friend7
+Post seen by Friend10
+Post liked by Friend10
+Friend10 followed Poster
+Post seen by Acquaintance2
+Post seen by Acquaintance4
+Post liked by Acquaintance4
+Acquaintance4 followed Poster
+Post seen by Acquaintance5
+Post seen by Acquaintance8
+Post liked by Acquaintance8
+Post seen by Stranger1
+
+
+--------------------------------
+Timestep 12
+
+3 event(s) to get through, 1 post(s) to get through.
+
+For post ID 3 by Poster:
+
+Post seen by Acquaintance10
+Post seen by Stranger4
+Post liked by Stranger4
+Post seen by Stranger8
+
+Post 3 finished propagating after 4673 microseconds
+
+
+Iterating through events to find next post:
+New post by Poster (ID: 4, Clickbait: 1):
+Post Four
+
+
+--------------------------------
+Timestep 13
+
+2 event(s) to get through, 1 post(s) to get through.
+
+For post ID 4 by Poster:
+
+Post seen by CloseFriend1
+Post liked by CloseFriend1
+Post seen by CloseFriend2
+Post liked by CloseFriend2
+Post seen by CloseFriend3
+Post liked by CloseFriend3
+Post seen by CloseFriend4
+Post liked by CloseFriend4
+Post seen by CloseFriend5
+Post seen by CloseFriend6
+Post seen by CloseFriend7
+Post seen by CloseFriend8
+Post seen by CloseFriend9
+Post liked by CloseFriend9
+Post seen by CloseFriend10
+Post seen by Friend1
+Post seen by Friend2
+Post liked by Friend2
+Post seen by Friend4
+Post liked by Friend4
+Post seen by Friend5
+Post liked by Friend5
+Post seen by Friend6
+Post seen by Friend8
+Post liked by Friend8
+Post seen by Friend9
+Post liked by Friend9
+Post seen by Friend10
+Post seen by Acquaintance1
+Post liked by Acquaintance1
+Post seen by Acquaintance4
+Post liked by Acquaintance4
+Post seen by Acquaintance6
+Post liked by Acquaintance6
+Post seen by Stranger6
+
+
+--------------------------------
+Timestep 14
+
+2 event(s) to get through, 1 post(s) to get through.
+
+For post ID 4 by Poster:
+
+Post seen by Friend3
+Post seen by Acquaintance2
+Post seen by Acquaintance5
+Post liked by Acquaintance5
+Post seen by Acquaintance8
+Post seen by Acquaintance9
+Post liked by Acquaintance9
+Acquaintance9 followed Poster
+Post seen by Stranger1
+Post seen by Stranger4
+
+
+--------------------------------
+Timestep 15
+
+2 event(s) to get through, 1 post(s) to get through.
+
+For post ID 4 by Poster:
+
+Post seen by Stranger5
+Post seen by Stranger9
+Post liked by Stranger9
+
+Post 4 finished propagating after 4487 microseconds
+
+
+Iterating through events to find next post:
+New post by Poster (ID: 5, Clickbait: 1):
+Post Five
+
+
+--------------------------------
+Timestep 16
+
+1 event(s) to get through, 1 post(s) to get through.
+
+For post ID 5 by Poster:
+
+Post seen by CloseFriend1
+Post seen by CloseFriend2
+Post liked by CloseFriend2
+Post seen by CloseFriend3
+Post liked by CloseFriend3
+Post seen by CloseFriend4
+Post seen by CloseFriend5
+Post liked by CloseFriend5
+Post seen by CloseFriend6
+Post seen by CloseFriend7
+Post seen by CloseFriend8
+Post seen by CloseFriend9
+Post liked by CloseFriend9
+Post seen by CloseFriend10
+Post seen by Friend1
+Post liked by Friend1
+Post seen by Friend2
+Post seen by Friend4
+Post liked by Friend4
+Post seen by Friend5
+Post seen by Friend6
+Post liked by Friend6
+Post seen by Friend8
+Post liked by Friend8
+Post seen by Friend9
+Post seen by Friend10
+Post liked by Friend10
+Post seen by Acquaintance1
+Post seen by Acquaintance4
+Post liked by Acquaintance4
+Post seen by Acquaintance6
+Post seen by Acquaintance9
+Post liked by Acquaintance9
+Post seen by Stranger6
+Post liked by Stranger6
+
+
+--------------------------------
+Timestep 17
+
+1 event(s) to get through, 1 post(s) to get through.
+
+For post ID 5 by Poster:
+
+Post seen by Friend3
+Post liked by Friend3
+Post seen by Acquaintance8
+Post liked by Acquaintance8
+Acquaintance8 followed Poster
+Post seen by Acquaintance10
+Post liked by Acquaintance10
+Post seen by Stranger4
+Post liked by Stranger4
+Post seen by Stranger9
+Post liked by Stranger9
+
+
+--------------------------------
+Timestep 18
+
+1 event(s) to get through, 1 post(s) to get through.
+
+For post ID 5 by Poster:
+
+Post seen by Acquaintance3
+Post seen by Stranger8
+Post liked by Stranger8
+Post seen by Stranger10
+Post liked by Stranger10
+Stranger10 followed Poster
+
+Post 5 finished propagating after 4747 microseconds
+
+
+Iterating through events to find next post:
+New post by Poster (ID: 6, Clickbait: 1):
+Post Six
+
+
+--------------------------------
+Timestep 19
+
+0 event(s) to get through, 1 post(s) to get through.
+
+For post ID 6 by Poster:
+
+Post seen by CloseFriend1
+Post seen by CloseFriend2
+Post liked by CloseFriend2
+Post seen by CloseFriend3
+Post liked by CloseFriend3
+Post seen by CloseFriend4
+Post seen by CloseFriend5
+Post seen by CloseFriend6
+Post seen by CloseFriend7
+Post seen by CloseFriend8
+Post liked by CloseFriend8
+Post seen by CloseFriend9
+Post liked by CloseFriend9
+Post seen by CloseFriend10
+Post seen by Friend1
+Post liked by Friend1
+Post seen by Friend2
+Post seen by Friend4
+Post liked by Friend4
+Post seen by Friend5
+Post seen by Friend6
+Post seen by Friend8
+Post seen by Friend9
+Post seen by Friend10
+Post seen by Acquaintance1
+Post seen by Acquaintance4
+Post seen by Acquaintance6
+Post liked by Acquaintance6
+Post seen by Acquaintance8
+Post liked by Acquaintance8
+Post seen by Acquaintance9
+Post liked by Acquaintance9
+Post seen by Stranger6
+Post seen by Stranger10
+
+
+--------------------------------
+Timestep 20
+
+0 event(s) to get through, 1 post(s) to get through.
+
+For post ID 6 by Poster:
+
+Post seen by Friend3
+Post seen by Stranger8
+Post seen by Stranger9
+
+Post 6 finished propagating after 3006 microseconds
+
+--------------------------------
+
+Posts in order of likes:
+Post ID 5 by Poster with 19 likes
+Post ID 2 by Poster with 17 likes
+Post ID 4 by Poster with 16 likes
+Post ID 3 by Poster with 16 likes
+Post ID 6 by Poster with 9 likes
+Post ID 1 by Poster with 8 likes
+
+Users in order of followers
+User Poster with 25 followers
+User CloseFriend1 with 1 followers
+User CloseFriend3 with 1 followers
+User CloseFriend7 with 1 followers
+User Friend5 with 1 followers
+User Friend6 with 1 followers
+User CloseFriend8 with 1 followers
+User Friend7 with 1 followers
+User Friend8 with 1 followers
+User CloseFriend4 with 1 followers
+User CloseFriend9 with 1 followers
+User Acquaintance10 with 1 followers
+User Acquaintance9 with 1 followers
+User Acquaintance8 with 1 followers
+User Acquaintance7 with 1 followers
+User Acquaintance6 with 1 followers
+User Acquaintance5 with 1 followers
+User Acquaintance4 with 1 followers
+User Acquaintance3 with 1 followers
+User Acquaintance2 with 1 followers
+User Acquaintance1 with 1 followers
+User Friend9 with 1 followers
+User Friend10 with 1 followers
+User CloseFriend10 with 1 followers
+User CloseFriend2 with 1 followers
+User CloseFriend5 with 1 followers
+User Friend1 with 1 followers
+User Friend4 with 1 followers
+User Friend3 with 1 followers
+User Friend2 with 1 followers
+User CloseFriend6 with 1 followers
+User Stranger2 with 0 followers
+User Stranger1 with 0 followers
+User Stranger5 with 0 followers
+User Stranger8 with 0 followers
+User Stranger9 with 0 followers
+User Stranger10 with 0 followers
+User Stranger3 with 0 followers
+User Stranger4 with 0 followers
+User Stranger7 with 0 followers
+User Stranger6 with 0 followers
+

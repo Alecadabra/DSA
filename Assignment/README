@@ -1,0 +1,51 @@
+README Alec Maughan 19513869 DSA Assignment
+
+-------------------------------------------------------------------------------
+Files
+
+SocialSim
+Handles command-line arguments for SocialSim program and performs last resort
+exception handling
+
+UI
+User Interface for SocialSim
+  
+Network
+Class representing a social network. Contains all implementation for social
+network operations such as addingremoving users, follows and posts and
+propagating the posts through the network through 'timesteps' as well as
+collecting statistics and logs for data analysis
+
+FileIO
+File InputOutput operations for SocialSim, handles network files, event files
+and log files
+
+DSADigraph
+Implementation of a directed graph ADT
+
+DSALinkedList
+Implementation of a linked list ADT
+
+DSAQueue
+Implementation of a FILO queue ADT
+
+DSAHeap
+Implementaion of a priority max heap ADT
+
+UnitTest<class>
+Test program for <class>
+
+-------------------------------------------------------------------------------
+How To Run
+
+SocialSim
+Interactive Testing Environment
+    Run with -i
+    eg. java SocialSim -i
+Simulation Mode
+    Run with -s <netfile> <eventfile> <prob_like> <prob_foll>
+    eg. java SocialSim -s netToy.txt eventsToy2.txt 0.7 0.4
+
+UnitTest<class>
+Run as normal java programs
+eg. java UnitTestDSADigraph
