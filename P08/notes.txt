@@ -1,0 +1,41 @@
+All tested with n=1000
+
+Merge Sort
+    Random data: 122
+    Nearly Sorted: 63
+    Descending: 76
+    Sorted (Ascending): 108
+
+    Good speed
+    Best, avg & worst cases all O(n log N)
+    Not in-place
+    Stable
+
+Quick Sort (Left-most pivot)
+    Random data: 2291
+    Nearly sorted: 221
+    Descending: 4000
+    Sorted (Ascending): 3810
+
+    Relatively slow
+    Held back by bad pivot selection, usually not evenly splitting sub-array,
+        especially with already sorted data.
+    Quick sort, so is O(N log N) but could degrade to O(N^2)
+    In place
+    Unstable
+
+Quick Sort (Median of 3 pivot)
+    Random data: 1245
+    Nearly sorted: 44
+    Descending: 1039
+    Sorted (Ascending): 5763
+
+    Faster than left-most pivot
+    Quick sort, so is O(N log N) but could degrade to O(N^2)
+    In place
+    Unstable
+
+3-Way Quicksort
+    Unimplemented
+
+    Better with data with many duplicates
