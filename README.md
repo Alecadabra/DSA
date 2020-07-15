@@ -8,7 +8,7 @@ Part of my Computer Science degree at Curtin University. My final mark was 87%.
 
 From the unit handbook:
 
-Introduction to fundamental data structures, algorithms and techniques in computing. Basic structures include stacks, queues and linked lists. Advanced structures explored are trees, hash tables and heaps. Algorithms discussed include sorting and recursion. Complexity analysis of these areas is also examined.
+> Introduction to fundamental data structures, algorithms and techniques in computing. Basic structures include stacks, queues and linked lists. Advanced structures explored are trees, hash tables and heaps. Algorithms discussed include sorting and recursion. Complexity analysis of these areas is also examined.
 
 There's no proper commit history because it wasn't developed using GitHub.
 
