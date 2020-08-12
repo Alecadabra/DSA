@@ -6,7 +6,7 @@ Part of my Computer Science degree at Curtin University. My final mark was 87%.
 --- | --- | --- | --- | --- | --- |
 [OOPD](https://github.com/Alecadabra/OOPD) | [UCP](https://github.com/Alecadabra/UCP)<br>**DSA** | [OS](https://github.com/Alecadabra/OS)<br>[OOSE](https://github.com/Alecadabra/OOSE)
 
-From the unit handbook:
+Syllabus:
 
 > Introduction to fundamental data structures, algorithms and techniques in computing. Basic structures include stacks, queues and linked lists. Advanced structures explored are trees, hash tables and heaps. Algorithms discussed include sorting and recursion. Complexity analysis of these areas is also examined.
 
