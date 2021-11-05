@@ -7,20 +7,23 @@ There's no proper commit history because it wasn't developed using GitHub.
 <table>
   <thead>
     <tr>
-      <th colspan="2">2019 • 1st Year</th>
-      <th colspan="2">2020 • 2nd Year</th>
-      <th colspan="2">2021 • 3rd Year</th>
-    </tr>
-    <tr>
-      <th>Sem 1</th>
-      <th>Sem 2</th>
-      <th>Sem 1</th>
-      <th>Sem 2</th>
-      <th>Sem 1</th>
-      <th>Sem 2</th>
+      <th colspan="6">Curtin University • BSc Computer Science</th>
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td colspan="2">2019 • 1st Year</td>
+      <td colspan="2">2020 • 2nd Year</td>
+      <td colspan="2">2021 • 3rd Year</td>
+    </tr>
+    <tr>
+      <td>Sem 1</td>
+      <td>Sem 2</td>
+      <td>Sem 1</td>
+      <td>Sem 2</td>
+      <td>Sem 1</td>
+      <td>Sem 2</td>
+    </tr>
     <tr>
       <td rowspan="3">
         <a href="https://github.com/Alecadabra/OOPD" target="_blank" rel="noopener noreferrer">
