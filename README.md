@@ -2,15 +2,74 @@
 
 Part of my Computer Science degree at Curtin University. My final mark was 87%.
 
-1st Year <br> 1st Sem <br> 2019 | 1st Year <br> 2nd Sem <br> 2019 | 2nd Year <br> 1st Sem <br> 2020 | 2nd Year <br> 2nd Sem <br> 2020 | 3rd Year <br> 1st Sem <br> 2021 | 3rd Year <br> 2nd Sem <br> 2021  
---- | --- | --- | --- | --- | --- |
-[OOPD](https://github.com/Alecadabra/OOPD) | [UCP](https://github.com/Alecadabra/UCP)<br>**DSA** | [OS](https://github.com/Alecadabra/OS)<br>[OOSE](https://github.com/Alecadabra/OOSE) | [MAD](https://github.com/Alecadabra/MAD)<br>[CG](https://github.com/Alecadabra/CG)<br>[PL](https://github.com/Alecadabra/PL)
+There's no proper commit history because it wasn't developed using GitHub.
 
-Syllabus:
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">2019 • 1st Year</th>
+      <th colspan="2">2020 • 2nd Year</th>
+      <th colspan="2">2021 • 3rd Year</th>
+    </tr>
+    <tr>
+      <th>Sem 1</th>
+      <th>Sem 2</th>
+      <th>Sem 1</th>
+      <th>Sem 2</th>
+      <th>Sem 1</th>
+      <th>Sem 2</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="3">
+        <a href="https://github.com/Alecadabra/OOPD" target="_blank" rel="noopener noreferrer">
+        <abbr title="Object Oriented Program Design">OOPD</abbr></a></a>
+      </td>
+      <td rowspan="3">
+          <abbr title="Data Structures and Algorithms"><b>DSA</b></abbr>
+        <br>
+        <a href="https://github.com/Alecadabra/UCP" target="_blank" rel="noopener noreferrer">
+          <abbr title="Unix and C Programming">UCP</abbr></a>
+      </td>
+      <td rowspan="3">
+        <a href="https://github.com/Alecadabra/OOSE" target="_blank" rel="noopener noreferrer">
+          <abbr title="Object Oriented Software Engineering">OOSE</abbr></a></a>
+        <br>
+        <a href="https://github.com/Alecadabra/OS" target="_blank" rel="noopener noreferrer">
+          <abbr title="Operating Systems">OS</abbr></a></a>
+      </td>
+      <td rowspan="3">
+        <a href="https://github.com/Alecadabra/CG" target="_blank" rel="noopener noreferrer">
+          <abbr title="Computer Graphics">CG</abbr></a></a>
+        <br>
+        <a href="https://github.com/Alecadabra/MAD" target="_blank" rel="noopener noreferrer">
+          <abbr title="Mobile Application Development">MAD</abbr></a></a>
+        <br>
+        <a href="https://github.com/Alecadabra/PL" target="_blank" rel="noopener noreferrer">
+          <abbr title="Programming Languages">PL</abbr></a></a>
+      </td>
+      <td rowspan="3">
+        <a href="https://github.com/Alecadabra/HCI" target="_blank" rel="noopener noreferrer">
+          <abbr title="Machine Perception">HCI</abbr></a></a></td>
+      <td rowspan="3">
+        <a href="https://github.com/Alecadabra/MP" target="_blank" rel="noopener noreferrer">
+          <abbr title="Machine Perception">MP</abbr></a></a>
+        <br>
+        <a href="https://github.com/Alecadabra/SEC" target="_blank" rel="noopener noreferrer">
+          <abbr title="Software Engineering Concepts">SEC</abbr></a></a>
+      </td>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+    </tr>
+  </tbody>
+</table>
+
+**Syllabus**
 
 > Introduction to fundamental data structures, algorithms and techniques in computing. Basic structures include stacks, queues and linked lists. Advanced structures explored are trees, hash tables and heaps. Algorithms discussed include sorting and recursion. Complexity analysis of these areas is also examined.
-
-There's no proper commit history because it wasn't developed using GitHub.
 
 ## [Assignment](Assignment)
 
