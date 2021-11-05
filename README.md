@@ -1,6 +1,6 @@
-# Data Structures and Algorithms (Curtin University)
+# Data Structures and Algorithms
 
-Part of my Computer Science degree at Curtin University. My final mark was 87%.
+Part of my Computer Science degree at Curtin University in 2019. My final mark was 87%.
 
 There's no proper commit history because it wasn't developed using GitHub.
 
